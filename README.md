@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first big Odin project. The introductory steps included using mkdir to create the directory call the_odin_project. In terminal I used cd to get into the_odin_project and then created a new file called odin_recipes. Then I cd-ed into that and then created this README description. 
